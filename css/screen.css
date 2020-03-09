@@ -278,6 +278,7 @@ a:focus {
     font-size: 14px;
     font-family: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif;
     line-height: 24px;
+    color: #5C6366;
 }
 
 .c-author__name {
