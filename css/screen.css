@@ -353,3 +353,20 @@ a:focus {
 .u-max-width-sm {
     max-width: 36em;
 }
+
+.blockquote {
+    background-color: #CFE6DE;
+    height: 144px;
+    padding: 23px;
+    margin-bottom: 24px;
+}
+
+.quote {
+    color: #00B37D;
+    font-family: "droid-serif", serif;
+    font-size: 23px;
+    font-style: italic;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+}
